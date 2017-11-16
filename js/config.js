@@ -2,9 +2,10 @@
 var __apiKeys = [
 	'm779065914-647c1f968f66dc07b3d96aaf', //Main Site
 	'm779065920-9fd97608e219f319c501ca8d', //Billing
-	'm778913243-3d9b2fd7d6b9dcb4c6b9827d', //Las Vegas Node
-	'm778913245-f95cea3c023062a7ea3526d3', //Luxembourg Node
-
+	'm779654304-62fe2ff6ff8991b41f7693d0', //LV 1 Node
+	'm779654309-82fc9c24ce487e181d769ee4', //LV 2 Node
+	'm779654310-f6bb03ebd15ddf19eae17d76', //LU 1 Node
+	'm779654322-91ade9829eac69d10e41e3ba', //LU 2 Node
 ];
 
 // refresh interval (in seconds)
