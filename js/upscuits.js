@@ -182,7 +182,7 @@ myApp.dashboard = (function($) {
         while (st = fin.pop()) {
             temptip = "" + Type2Word(parseInt(st.type), true);
             if (st.len == 1) {
-                temptip += " (Nearly 24 hours)"
+                temptip += " (Last 24 hours)"
             } else {
                 if (st.right - st.left < 1000 * 3540) {
                     temptip += " (" + new Number((st.right - st.left) / (1000 * 60)).toFixed(0) + " minute)";
